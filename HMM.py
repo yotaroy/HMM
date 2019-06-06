@@ -70,5 +70,5 @@ plt.scatter(six, y, label='dice : 6', color='black', marker='.')
 
 plt.legend()
 
-plt.savefig('fig2.pdf')
+plt.savefig('ex.png')
 plt.show()
